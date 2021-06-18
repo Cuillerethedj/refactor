@@ -7,28 +7,22 @@ Learning how to refact code is an skill the you will need to develop as a junior
 
 
 
-## Goals
+##  My Goals
 ```
-    1. Understand the importance of refactoring.
-    2. Understand what to look for when refactoring HTML Code.
-    3. Understand what to look for when refactoring CSS Code.
+    1. To Understand the importance of refactoring.
+    2. Try to understand what to look for when refactoring HTML Code/CSS Code.
+   
 ```
    
-
-
 ## Conclusion
 
-The following benefits were for HTML:
-
-
-1. Organizing the code, made it cleaner to see where the header/footer/main.
+1. Organizing the code, made it cleaner to see where the header/footer/main more clear.
 2. Catching mistakes that i would not notice at first but with time seen.
 
 The following benefits were for CSS:
 
-1. Reducing the clutter of reused coding and a better foundation of how classes and IDs can work together
-2. Reduced amount of lines.
-
+1. There was code that i could see that looked cluttered so it gave me a better understanding to use classes and Ids. 
+2.  By using Classes and IDs it help me clean up the ampunt of lines.
 ## License
 https://opensource.org/licenses/MIT
 
